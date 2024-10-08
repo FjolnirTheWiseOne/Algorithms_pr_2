@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ufar.Homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137ba9c7eab3838e57a4f602d1c7b916520464e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ufar.Homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ufar.Homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
