@@ -1,0 +1,14 @@
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\bin\Debug\net8.0\Ufar.Homework.exe
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\bin\Debug\net8.0\Ufar.Homework.deps.json
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\bin\Debug\net8.0\Ufar.Homework.runtimeconfig.json
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\bin\Debug\net8.0\Ufar.Homework.dll
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\bin\Debug\net8.0\Ufar.Homework.pdb
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.AssemblyInfoInputs.cache
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.AssemblyInfo.cs
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.csproj.CoreCompileInputs.cache
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.dll
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\refint\Ufar.Homework.dll
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.pdb
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\Ufar.Homework.genruntimeconfig.cache
+C:\Users\IIISI\Desktop\Ufar.Homework\Ufar.Homework\obj\Debug\net8.0\ref\Ufar.Homework.dll
